@@ -1,2 +1,2 @@
-# diagnosticomodelo
-Sintaxis en R para realizar el diagnóstico de un modelo lineal.
+# MODELOS ECONOMETRICOS
+Sintaxis en R para realizar el análisis de un modelo lineal.
